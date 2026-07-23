@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,12,20,24,30&text=K.%20Priyadharshini&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student%20💜&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=K.%20Priyadharshini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%F0%9F%92%9C&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=💜+Welcome+to+my+GitHub+Profile;Full+Stack+Developer+in+Progress;AI+%7C+UI%2FUX+%7C+Web+Developer;Learning+Never+Stops+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+K.+Priyadharshini+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;AI+%7C+UI%2FUX+Designer;Always+Learning+New+Technologies+%F0%9F%92%9C" />
 
-<p>
+<br>
 
-<img src="https://img.shields.io/github/followers/priyadharshinikamaraj02?label=Followers&logo=github&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=priyadharshinikamaraj02&label=Profile+Views&color=9333EA&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/priyadharshinikamaraj02?label=Followers&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/github/stars/priyadharshinikamaraj02?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
-
-<img src="https://komarev.com/ghpvc/?username=priyadharshinikamaraj02&style=for-the-badge&color=9333EA"/>
-
-</p>
 
 </div>
 
@@ -21,67 +19,90 @@
 # 💜 About Me
 
 ```yaml
-Name      : K. Priyadharshini
-Degree    : BE Computer Science Engineering
-Passion   : Full Stack Development & AI
-Interests : UI/UX • Web Development • Cloud
-Learning  : React • Node.js • Python • Java
-Goal      : Build meaningful software that impacts people
+Name        : K. Priyadharshini
+Education   : BE Computer Science Engineering
+Role        : Student Developer
+Focus       : Full Stack Development • AI • UI/UX
+Currently   : Learning React, Node.js & Cloud
+Goal        : Building impactful software through continuous learning
 ```
 
 ---
 
-# 🌸 Tech Universe
+# 💜 Tech Stack
 
-<p align="center">
+### 👩‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,express,mysql,git,github,vscode,figma&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql&theme=dark"/>
+</p>
 
+### 🚀 Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,vscode,figma&theme=dark"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| 💜 Project | 🚀 Description |
-|------------|----------------|
-| 🤖 AI Hand Gesture Controller | Control Volume & Brightness using Hand Gestures |
-| 🔐 Login Authentication | React + Node.js + MySQL |
-| ⚖️ AI Legal Assistant | AI Internship Project |
+### 🤖 AI Hand Gesture Control System
+> Built using **Python, OpenCV & MediaPipe** to control system volume and screen brightness using real-time hand gestures.
+
+### 🔐 Login Authentication System
+> Developed a secure **React + Node.js + MySQL** authentication system with backend integration.
+
+### ⚖️ AI Legal Assistant
+> Contributed to frontend and backend development as part of an AI internship project.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyadharshinikamaraj02&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinikamaraj02&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=priyadharshinikamaraj02&theme=midnight-purple&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshinikamaraj02&theme=react-dark&hide_border=true&line=A855F7&point=C084FC&color=FFFFFF"/>
-
-</div>
-
----
-
-# 🏆 Achievements
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyadharshinikamaraj02&theme=discord&row=1&column=6&no-frame=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyadharshinikamaraj02&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinikamaraj02&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=priyadharshinikamaraj02&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌙 Connect With Me
+# 🛠 Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-9333EA?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-C084FC?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌟 What I'm Learning
+
+- 🌱 Full Stack Web Development
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
+- 🎨 UI/UX Design
+- 📱 Modern Web Technologies
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -89,11 +110,11 @@ Goal      : Build meaningful software that impacts people
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yourmail@example.com">
 <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -103,10 +124,10 @@ Goal      : Build meaningful software that impacts people
 
 <div align="center">
 
-## 💜 Favorite Quote
+## 💜 Favourite Quote
 
-> *"Code with logic. Design with creativity. Learn with curiosity."*
+> **"Learning never exhausts the mind. Every project is another step toward becoming better."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
