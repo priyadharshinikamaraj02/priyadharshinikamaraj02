@@ -18,14 +18,61 @@
 
 # 💜 About Me
 
-```yaml
-Name        : K. Priyadharshini
-Education   : BE Computer Science Engineering
-Role        : Student Developer
-Focus       : Full Stack Development • AI • UI/UX
-Currently   : Learning React, Node.js & Cloud
-Goal        : Building impactful software through continuous learning
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```javascript
+const priyadharshini = {
+    name: "K. Priyadharshini",
+    pronouns: "She/Her 👩‍💻",
+    education: "B.E. Computer Science Engineering",
+    location: "Chennai, India 🇮🇳",
+
+    currentlyLearning: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Java"
+    ],
+
+    interests: [
+        "Web Development 🌐",
+        "UI/UX Design 🎨",
+        "Problem Solving 🧩",
+        "Open Source 💜"
+    ],
+
+    techStack: {
+        languages: ["Python", "Java", "JavaScript", "C", "SQL"],
+        frontend: ["HTML", "CSS", "React"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MySQL"],
+        tools: ["Git", "GitHub", "VS Code", "Figma", "Canva"]
+    },
+
+    philosophy:
+        "Technology is not just about writing code; it's about creating meaningful solutions that make life better.",
+
+    currentFocus:
+        "Building modern web applications while strengthening my Full Stack and AI skills.",
+
+    lifeGoal:
+        "To become a Software Engineer who creates innovative, user-friendly, and impactful digital experiences.",
+
+    motto:
+        "Learn • Build • Innovate • Inspire 💜"
+};
 ```
+
+<div align="center">
+
+### 🌸 *Turning ideas into reality through code, creativity, and continuous learning.*
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-UI%2FUX-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Future-Full%20Stack%20Engineer-9333EA?style=for-the-badge"/>
+
+</div>
 
 ---
 
