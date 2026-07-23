@@ -1,89 +1,109 @@
-# Hi 👋, I'm K. Priyadharshini
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Aspiring Software Developer | UI/UX Enthusiast
+# 💜 Hi, I'm **K. Priyadharshini** 👋
 
-I'm a passionate Computer Science Engineering student who enjoys building web applications, exploring AI, and creating clean UI/UX designs. I love learning new technologies and turning ideas into practical projects.
+### ✨ Computer Science Engineering Student • Full Stack Learner • UI/UX Enthusiast • AI Explorer
 
----
-
-## 🚀 About Me
-
-* 🎓 BE Computer Science Engineering Student
-* 🌱 Currently learning Full Stack Development & AI
-* 💡 Interested in Web Development, UI/UX and Machine Learning
-* 🤝 Always open to learning and collaborating
-* 🎯 Goal: Become a skilled software developer while continuously improving my technical knowledge.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Full+Stack+Developer+in+Progress;AI+%7C+Web+Development+%7C+UI%2FUX;Always+Learning+Something+New+%F0%9F%92%9C" />
 
 ---
 
-## 🛠️ Tech Stack
+### 💜 About Me
 
-### Programming Languages
+🎓 **BE Computer Science Engineering Student**
 
-* Python
-* C
-* Java (Learning)
-* SQL
+💻 Passionate about creating beautiful and functional applications.
 
-### Web Technologies
+🌱 Currently learning **Full Stack Development, AI & Cloud Technologies**
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Node.js
-* Express.js
+🎨 Love designing clean **UI/UX** experiences.
 
-### Database
+🤝 Open to internships, collaborations and exciting projects.
 
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Canva
-* Oracle Cloud
+🎯 Dreaming of building impactful software that solves real-world problems.
 
 ---
 
-## 📂 Featured Projects
+## 💜 Tech Stack
 
-### 🤖 AI Hand Gesture Control System
+### 👩‍💻 Languages
 
-Control system volume and screen brightness using hand gestures with Python, OpenCV and MediaPipe.
+![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-9333EA?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C084FC?style=for-the-badge)
 
-### 🔐 Login Authentication System
+### 🌐 Web Development
 
-A React + Node.js + MySQL authentication system with backend database connectivity.
+![HTML5](https://img.shields.io/badge/HTML5-7E22CE?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge\&logo=javascript\&logoColor=white)
+![React](https://img.shields.io/badge/React-C084FC?style=for-the-badge\&logo=react\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-9333EA?style=for-the-badge)
 
-### ⚖️ AI Legal Assistant (Internship)
+### 🗄 Database
 
-Worked on frontend and backend modules for an AI-powered legal assistant platform.
+![MySQL](https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ⚙ Tools
+
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-A855F7?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-C084FC?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-7C3AED?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+💜 **AI Hand Gesture Control System**
+
+Control volume & screen brightness using Python, OpenCV and MediaPipe.
+
+💜 **Login Authentication System**
+
+A React + Node.js + MySQL authentication system.
+
+💜 **AI Legal Assistant**
+
+Contributed to frontend and backend modules during internship.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshinikamaraj02&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshinikamaraj02&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyadharshinikamaraj02&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinikamaraj02&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=priyadharshinikamaraj02&theme=midnight-purple&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌸 Connect With Me
 
-* GitHub: https://github.com/priyadharshinikamaraj02
-* LinkedIn: *(Add your LinkedIn profile here)*
+💜 GitHub: **github.com/priyadharshinikamaraj02**
+
+💼 LinkedIn: *(Add your profile here)*
 
 ---
 
-### ✨ Quote
+<div align="center">
 
-> "Learning never exhausts the mind. Every project is a step toward becoming better."
+## ✨ Favourite Quote
 
-⭐ Thanks for visiting my profile!
+*"Learning never exhausts the mind."* — Leonardo da Vinci
+
+💜 *Thanks for visiting my profile! Have a wonderful day!* 💜
+
+</div>
